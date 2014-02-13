@@ -3,7 +3,7 @@
 <title>test</title>
 </head>
 
-<body>
+<body bgcolor=red>
 
 <?
 
